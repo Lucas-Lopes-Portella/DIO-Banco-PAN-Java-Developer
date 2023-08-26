@@ -15,8 +15,6 @@
 - [X] Desafio: Taxa de Imposto de Renda. (Intermediário)
 
 > Desafio de projeto
-
-
 - [X] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso. (Básico)
 - [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java. (Intermediário)
 - [ ] Boas Práticas com DynamoDB. (Avançado)
